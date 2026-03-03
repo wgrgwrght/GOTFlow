@@ -4,7 +4,9 @@ Official repository for **GOTFlow (Generalised Optimal Transport Flow)**.
 
 ## Overview
 
-![GOTFlow overview figure](Figures/Figure_1.png)
+<p align="center">
+  <img src="Figures/Figure_1.png" width="70%" />
+</p>
 
 *Figure: GOTFlow pipeline and visualisation outputs (transport map and feature-level drift).*
 
